@@ -35,7 +35,7 @@ The project uses two IPL datasets:
 - Toss winners won 554 matches, while toss winners lost 536 matches, showing only a small toss advantage.
 - Eden Gardens is among the most frequently used IPL venues.
 
-## Project Structure
+## Project Structure  
 
 ```text
 IPL-Cricket-Stats-Analysis/
